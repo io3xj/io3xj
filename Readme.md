@@ -34,5 +34,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge&logo=linux&logoColor=000000)
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
-
-### ReadMe pasted --> (https://github.com/n1zamu)
